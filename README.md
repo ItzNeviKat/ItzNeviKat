@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 #### Я - разработчик (так же в студии [novateam](https://github.com/novateamgh)), в основном пишу на JS/TS. Вот мой стёк технологий:
 - NodeJS (Koa (Express), MongoDB, Typescript)
 - ReactJS
-- и много другого..
+- и много другого..<br/>
 В основном пишу Backend, VKMiniApps.
 
 P. S. Мне 14 лет :0
