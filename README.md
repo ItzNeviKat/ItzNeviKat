@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Привет, я - ItzNeviKat_ 👋
-#### Я - разработчик (так же в студии [novateam](https://github.com/novateamgh)), в основном пишу на JS/TS. Вот мой стёк технологий:
+#### Я - разработчик (так же в студии [novateam](https://github.com/novateamgh)), в основном пишу на JS/TS. Вот мой стек технологий:
 - NodeJS (Koa (Express), MongoDB, Typescript)
 - ReactJS
 - и много другого..
