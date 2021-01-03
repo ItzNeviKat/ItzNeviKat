@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 ### Привет, я - ItzNeviKat_ 👋
 #### Я - разработчик (так же в студии [novateam](https://github.com/novateamgh)), в основном пишу на JS/TS. Вот мой стек технологий:
 - NodeJS (Koa (Express), MongoDB, Typescript)
@@ -20,4 +21,13 @@ Here are some ideas to get you started:
 
 В основном пишу Backend, VKMiniApps.
 
-P. S. Мне 14 лет :0
+P. S. Мне 14 лет :0 -->
+
+### Привет, я - ItzNeviKat_ 👋
+#### Разработчик и сооснователь студии [novateam](https://github.com/novateamgh), в основном пишу на JS/TS.
+
+- 🔭 Сейчас работаю над проектом VFreelance.
+- 🌱 Изучаю и пишу на Typescript.
+- 👯 Кодим вместе с @NovaStream2030.
+- 📫 Найти меня можно в [ВК](https://vk.com/itznevikat) или [Telegram](https://t.me/itznevikat).
+- 🎂 Мне 14 лет :O
